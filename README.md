@@ -21,4 +21,4 @@
 - 💻 Former Google Summer of Code 2020 @MifosInitiative
 - 💻 Former summer intern @Samsung
 
-<img align="right" src="https://gpvc.arturio.dev/garvit_dgstar" alt="Profile views">
+<img align="right" src="https://gpvc.arturio.dev/garvitdgstar" alt="Profile views">
